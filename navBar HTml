@@ -1,0 +1,36 @@
+<nav>
+        
+    <div class='nav__left'>
+      <img src='dz.png' />
+      <div class='nav__search'>
+        <i class="material-icons">search</i>
+        <input type='text' placeholder="Search for photogprahe"/>
+      </div>
+    </div>
+
+    <div class='nav__mid'>
+
+        <a href='#' class='icon'>
+          <i class='material-icons'>Post</i>
+        </a>
+        <a href='#' class='icon'>
+          <i class='material-icons'>Matriel</i>
+        </a>
+        <a href='#' class='icon'>
+          <i class='material-icons'>formation</i>
+        </a>
+    </div>
+
+    <div class="nav__right">
+        <a href='#' class="avatar">
+            <img class='avatar__img' src='dhia.jpg' />
+            <span><strong>Dhia Gutiitto</strong></span>
+        </a>
+        <div class="buttons">
+            <a href="#"><i class='material-icons'>add</i></a>
+            <a href="#"><i class='material-icons'>messenger</i></a>
+            <a href="#"><i class='material-icons'>notifications</i></a>
+            <a href="#"><i class='material-icons'>settings</i></a>
+        </div>
+    </div>
+</nav>
